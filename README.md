@@ -48,37 +48,6 @@
 >
 > Node.js **≥18**. Windows no-flash needs **Node ≥22**. Hub one-click and the commands below both install the npm package `dsh-purge`.
 
-## Contents
-
-- [Sponsor](#sponsor)
-- [What this is](#what-this-is)
-- [Attribution required](#attribution-required)
-- [Unauthorized commercial use](#unauthorized-commercial-use)
-- [Supported hosts](#supported-hosts)
-- [Install](#install)
-- [Preview](#preview)
-- [Usage](#usage)
-- [Own servers](#own-servers)
-- [How it works](#how-it-works)
-- [Restore](#restore)
-- [Releases](#releases)
-
----
-
-<a id="sponsor"></a>
-
-## ☕ Sponsor
-
-If this project helps you, send it over — I'm out here asking~
-
-| Asset | Address |
-| --- | --- |
-| USDT (TRC20) | `TV5ajPkRD8RH623Dx9mqvYZVNN8nPGRKid` |
-| Solana | `6x16GhRgLVpKFFXaU1seKNdx2rypspSJTL4dbpt6Xpwk` |
-| Ethereum | `0xB68BD60C0e8c519513B7DF9bB147696815423B3E` |
-| Bitcoin | `bc1qu70yxkrtwnymt8ryluz9x8y8hqzune5340npht` |
-
----
 
 ## What this is
 
